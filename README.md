@@ -4,13 +4,16 @@
 Welcome to my notes! This repository contains simple explanations of Git and GitHub with examples, perfect for beginners.
 
 ## 📑 Table of Contents
-- [Version Control]
-- [Introduction to GitHub]
-- [Key Terms]
-- [Introduction to Git]
-- [Key Terms]
-- [GIT vs GITHUB]
-- [Git Workflow]
+- Version Control
+- Advantages of version control 
+- Introduction to GitHub
+- Features of Git
+- Key Terms - Git
+- Git Workflow Chart 
+- Introduction to Git
+- Features of GitHub 
+- Key Terms - GitHub
+- GIT vs GITHUB
 
 
 ## 🔄 Version Control
@@ -39,7 +42,7 @@ Welcome to my notes! This repository contains simple explanations of Git and Git
 | **Merge** | Combine changes from one branch to another |
 | **History** | Ordered list of all commits made |
 
-### *️⃣ Workflow Chart
+### *️⃣ Git Workflow Chart
           Workflow  
               ↓
         Create a Page
