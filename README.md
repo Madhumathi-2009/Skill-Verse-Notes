@@ -60,11 +60,11 @@ Welcome to my notes! This repository contains simple explanations of Git and Git
 ###### W → Work together
 
 ### ✨ Features of GitHub
-* ☁️ Cloud Based - Access from anywhere
-* 🤝 Collaboration - Work with team
-* 🔄 Version Control - Track all changes
-* 🔒 Secure - Protected repositories
-* 🌍 Open Source - Free to use
+* ☁️ **Cloud Based**     - Access from anywhere
+* 🤝 **Collaboration**   - Work with team
+* 🔄 **Version Control** - Track all changes
+* 🔒 **Secure**          - Protected repositories
+* 🌍 **Open Source**     - Free to use
   
 ### ⭐ Key terms - GitHub
 * Repository - Folder or Files
