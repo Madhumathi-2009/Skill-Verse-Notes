@@ -16,7 +16,7 @@ Welcome to my notes! This repository contains simple explanations of Git and Git
 - GIT vs GITHUB
 
 
-## 🔄 Version Control
+## ⏪ Version Control
 ##### A system that records every changes made to this file over time
 
 ### Advantages of version control 
@@ -65,7 +65,7 @@ Welcome to my notes! This repository contains simple explanations of Git and Git
 ### ✨ Features of GitHub
 * ☁️ **Cloud Based**     - Access from anywhere
 * 🤝 **Collaboration**   - Work with team
-* 🔄 **Version Control** - Track all changes
+* ⏪ **Version Control** - Track all changes
 * 🔒 **Secure**          - Protected repositories
 * 🌍 **Open Source**     - Free to use
   
