@@ -1,83 +1,72 @@
 # 📘**Skill-Verse-Notes**
-# ✨ GitHub essentials for non-programmers notes ✨
+## ✨ GitHub essentials for non-programmers notes ✨
 
-#### Welcome to my notes! This repository contains my handwritten class notes from Skill Verse sessions on GitHub Essentials with examples, perfect for beginners.
+##### Welcome to my notes! This repository contains my handwritten class notes from Skill Verse sessions on GitHub Essentials with examples, perfect for beginners.
 
-## 📑 Table of Contents
+## 📚 Notes
+- DAY-1 - GitHub Essentials
+- DAY-2 - Steps to create & publish HTML webpage 
+- DAY-3 - Repository Basics
+- DAY-4 - Documentation using Markdown
+- DAY-5 -Collabration using GitHub
+
+### 🗓️ DAY 1 - [📄 View Day 1 Notes](https://github.com/Madhumathi-2009/Skill-Verse-Notes/blob/main/Skill%20verse-Notes-Day%201.pdf)
+🐈‍⬛ **GitHub Essentials**
 - Version Control
-- Introduction to GitHub
+  * Advantages of version control
 - Introduction to Git
-- GIT vs GITHUB
+  * Features of Git
+  * Key Terms - Git
+  * Git Workflow Chart
+- Introduction to GitHub
+  * Features of GitHub
+  * Key terms - GitHub
+  * GIT vs GITHUB
 
-## ⏪ Version Control
-##### A system that records every changes made to this file over time
+### 🗓️ DAY 2 - [📄 View Day 2 Notes](https://github.com/Madhumathi-2009/Skill-Verse-Notes/blob/main/Skill%20verse-Notes-Day%202.pdf)
+📝 **Steps to create & Publish a HTML webpage**
+- Install Git, VS code & Codex 
+- How to create a HTML webpage using codex
+- Way to connect Git with VS code
+- How to publish in GitHub
 
-### Advantages of version control 
-##### O → Organised 
-##### T → Tracked
-##### p → Protected 
+### 🗓️ DAY 3 - [📄 View Day 3 Notes](https://github.com/Madhumathi-2009/Skill-Verse-Notes/blob/main/Skill%20verse-Notes-Day%203.pdf)
+📁 **Repository Basics**
+- What is a Repository ?
+- How to create a repo
+- Updating and Organizing Files
+- Visibility
+  * Private
+  * Public
+- Repository Templates
 
-## 📝 Introduction to Git
-##### Git is a free and open source *Distributed Version Control System* that helps you to track changes in your files over time.
+### 🗓️ DAY 4 - [📄 View Day 4 Notes](https://github.com/Madhumathi-2009/Skill-Verse-Notes/blob/main/Skill%20verse-Notes-Day%204.pdf)
+📋**Documentation using Markdown**
+- What is Markdown ?
+- Simple tools to create...
+  * Lists
+  * Table
+  * Checklist
+  * Hyperlink
+  * Code Block
+  * Quote
+- How to build a Complete Markdown README
+- What are our Responsibilities
 
-### ✨ Features of Git
-- 📌 **Tracks every change** in your files
-- ⏪ **Go back** to any previous version
-- 👥 **Work with others** on the same project
-- 💻 **Works Offline** on your local machine
+### 🗓️ DAY 5 - [📄 View Day 5 Notes](https://github.com/Madhumathi-2009/Skill-Verse-Notes/blob/main/Skill%20verse-Notes-Day%205.pdf)
+👥 **Collaboration**
+- How to collaborate on GitHub
+- Pull Request
+- Code Reviews
+- Ethics to Obey
+   * Open Source
+   * Copyright
+   * Licensing
+   * Academic Integrity
+- Documentation Flow
 
-### ⭐ Key Terms - Git
-| Term | Meaning |
-| --- | --- |
-| **Repository** | A folder/project that stores all files |
-| **Commit** | Save a snapshot of your changes with a message |
-| **Branch** | Separate line of work to experiment safely |
-| **Merge** | Combine changes from one branch to another |
-| **History** | Ordered list of all commits made |
+### 🔗 Connect
+**LinkedIn :** https://www.linkedin.com/in/madhumathi-c  
+**GitHub :** https://github.com/Madhumathi-2009
 
-### *️⃣ Git Workflow Chart
-          Workflow  
-              ↓
-        Create a Page
-              ↓
-        Make Changes
-              ↓
-        Add Changes 
-              ↓
-        Commit Change
-              ↓
-        Review History
-
-## 📝 Introduction to GitHub 
-##### GitHub is an online platform where people can store SMSW on software together
-###### S → Store
-###### M → Manage
-###### S → Share
-###### W → Work together
-
-### ✨ Features of GitHub
-* ☁️ **Cloud Based**     - Access from anywhere
-* 🤝 **Collaboration**   - Work with team
-* ⏪ **Version Control** - Track all changes
-* 🔒 **Secure**          - Protected repositories
-* 🌍 **Open Source**     - Free to use
-  
-### ⭐ Key terms - GitHub
-* Repository - Folder or Files
-* Code - Files and programs
-* Collabration - Working with Others
-* Pull Request - Request to review and merge
-* README - Description
-
-
-### GIT vs GITHUB
-
-| **Basis** | **Git** | **GitHub** |
-| --- | --- | --- |
-| **What it is** | Tool | Web-based platform |
-| **How it works** | Runs on local machine | Hosted on internet |
-| **Purpose** | Tracks changes in files | Stores Git repositories |
-| **How to use** | Terminal or Git GUI | Web Interface |
-| **Internet access** | Offline | Requires Internet |
-| **Who can use** | Single developer | Multiple people - Teamwork |
-| **Cost** | Open Source & Free | Free for Public repos, Paid for Private repos |
+***“Learn today, build tomorrow.”***
