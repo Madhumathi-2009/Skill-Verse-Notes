@@ -1,7 +1,7 @@
 # 📘**Skill-Verse-Notes**
 # ✨ GitHub essentials for non-programmers notes ✨
 
-Welcome to my notes! This repository contains my handwritten class notes from Skill Verse sessions on GitHub Essentials with examples, perfect for beginners.
+#### Welcome to my notes! This repository contains my handwritten class notes from Skill Verse sessions on GitHub Essentials with examples, perfect for beginners.
 
 ## 📑 Table of Contents
 - Version Control
