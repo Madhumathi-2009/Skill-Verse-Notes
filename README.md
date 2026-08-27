@@ -51,12 +51,6 @@
   <img src="https://komarev.com/ghpvc/?username=Madhumathi-2009&label=Skill-Verse-Notes&color=81D4FA&style=flat" />
 </p>
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/madhumathi-c"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-81D4FA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Madhumathi-2009"><img src="https://img.shields.io/badge/Follow_Me-GitHub-B3E5FC?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E0F6FF&height=120&section=footer&fontSize=22&fontColor=4A90E2&animation=fadeIn" width="100%" />
 </p>
