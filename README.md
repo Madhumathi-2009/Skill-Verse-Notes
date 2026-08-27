@@ -70,6 +70,5 @@
 
 ### 🔗 Connect
 **LinkedIn :** https://www.linkedin.com/in/madhumathi-c  
-**GitHub :** https://github.com/Madhumathi-2009
 
 ***“Learn today, build tomorrow.”***
