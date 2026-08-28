@@ -45,12 +45,12 @@
 - 📅 **Day-wise** - Step-by-step learning
 - 💡 **Real Examples** - What I actually did in class
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E0F6FF&height=120&section=footer&fontSize=22&fontColor=4A90E2&animation=fadeIn" width="100%" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Madhumathi-2009&label=Skill-Verse-Notes&color=81D4FA&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E0F6FF&height=120&section=footer&fontSize=22&fontColor=4A90E2&animation=fadeIn" width="100%" />
 </p>
