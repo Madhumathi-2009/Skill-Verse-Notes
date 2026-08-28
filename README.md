@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=4A90E2&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Learning+Journey;Notes+from+Skill+Verse+Sessions;Made+for+Beginners+%2C+By+a+Beginner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=4A90E2&center=true&vCenter=true&width=700&lines=Welcome+to+Our+GitHub+Learning+Journey;Notes+from+Skill+Verse+Sessions;Made+for+Beginners+%2C+By+a+Beginner" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
