@@ -40,7 +40,7 @@ Made for beginners, by beginners. Simple examples and easy explanations.
 
 ---
 
-### ✨ Why this repo is special? ✨
+### ✨ Why this repo is special ? ✨
 - 📘 **For Non-Programmers** - No coding jargon!
 - ✍️ **Handwritten** - Easy to understand like class notes
 - 📅 **Day-wise** - Step-by-step learning
