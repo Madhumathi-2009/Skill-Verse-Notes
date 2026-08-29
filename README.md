@@ -49,8 +49,6 @@ In Skill-Verse-Notes, all members learn and practice through quizzes.
 
 ---
 
-### How we learn?
-We learn a topic, take a quiz, and upload the score here. This helps us motivate each other!
 ### ✨ Why this repo is special ? ✨
 - 📘 **For Non-Programmers** - No coding jargon!
 - ✍️ **Handwritten** - Easy to understand like class notes
