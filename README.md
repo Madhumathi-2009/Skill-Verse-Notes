@@ -42,22 +42,24 @@ Made for beginners, by beginners. Simple examples and easy explanations.
 
 # 📊 Quiz Scores - Our Learning Progress
 
-In Skill-Verse-Notes, all members learn and practice through quizzes. We upload our scores here to track improvement together.
+In Skill-Verse-Notes, all members learn and practice through quizzes.
 
-### Madhumathi - Quiz Scores
-- ![Quiz 1](Quiz_1_Madhu.jpeg)
-- ![Quiz 2](Quiz_2_Madhu.jpeg)
+### Madhumathi - Scores
+![Madhu Quiz 1](Quiz_1_Madhu.jpeg)
+![Madhu Quiz 1 with space](Quiz%201_Madhu.jpeg)
+![Madhu Quiz 2](Quiz_2_Madhu.jpeg)
+![Madhu Quiz 2 with space](Quiz%202_Madhu.jpeg)
 
-### Muthulakshmi - Quiz Scores
-- ![Quiz 1](quiz1%20muthu.jpeg)
-- ![Quiz 2](quiz2%20muthu.jpeg)
+### Muthulakshmi - Scores
+![Muthu Quiz 1](quiz1%20muthu.jpeg)
+![Muthu Quiz 2](quiz2%20muthu.jpeg)
 
 ### Kovarasi - Scores
-File: Kovarasi-score
+![Kovarasi Quiz 1](quiz1%20kovarasi.jpeg)
+![Kovarasi Quiz 2](quiz2%20kovarasi.jpeg)
 
-### Our Learning Description
-> **Learn & Practice Through Quizzes:** We don't just read notes, we test our knowledge. Every team member takes quizzes after each topic and uploads proof here. This keeps us motivated and shows our collaborative growth.
-
+> We learn a topic, take a quiz, and upload the score here. This shows our collaborative growth!
+> This keeps us motivated and shows our collaborative growth.
 ---
 
 ### How we learn?
