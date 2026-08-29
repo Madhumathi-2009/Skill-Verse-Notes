@@ -44,22 +44,9 @@ Made for beginners, by beginners. Simple examples and easy explanations.
 
 In Skill-Verse-Notes, all members learn and practice through quizzes.
 
-### Madhumathi - Scores
-![Madhu Quiz 1](Quiz_1_Madhu.jpeg)
-![Madhu Quiz 1 with space](Quiz%201_Madhu.jpeg)
-![Madhu Quiz 2](Quiz_2_Madhu.jpeg)
-![Madhu Quiz 2 with space](Quiz%202_Madhu.jpeg)
-
-### Muthulakshmi - Scores
-![Muthu Quiz 1](quiz1%20muthu.jpeg)
-![Muthu Quiz 2](quiz2%20muthu.jpeg)
-
-### Kovarasi - Scores
-![Kovarasi Quiz 1](quiz1%20kovarasi.jpeg)
-![Kovarasi Quiz 2](quiz2%20kovarasi.jpeg)
-
 > We learn a topic, take a quiz, and upload the score here. This shows our collaborative growth!
 > This keeps us motivated and shows our collaborative growth.
+
 ---
 
 ### How we learn?
