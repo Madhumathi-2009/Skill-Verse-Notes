@@ -68,6 +68,12 @@ We learn a topic, take a quiz, and upload the score here. This helps us motivate
 - 📅 **Day-wise** - Step-by-step learning
 - 💡 **Real Examples** - What we actually did in class
 
+---
+
+## Team Collaboration
+- This repository was created collaboratively by our team.
+- We used GitHub branches, commits, pull requests, reviews, and discussions to work together.
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -84,11 +90,6 @@ We learn a topic, take a quiz, and upload the score here. This helps us motivate
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E0F6FF&height=120&section=footer&fontSize=22&fontColor=4A90E2&animation=fadeIn" width="100%" />
 </p>
-## Team Collaboration
-
-This repository was created collaboratively by our team.
-We used GitHub branches, commits, pull requests, reviews,
-and discussions to work together.
 
 
 
