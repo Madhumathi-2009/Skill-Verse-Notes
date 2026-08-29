@@ -39,7 +39,27 @@ Made for beginners, by beginners. Simple examples and easy explanations.
 | **DAY 6** | **Professional GitHub Portfolio**<br>[📄 View Notes](./Skill%20verse-Notes-Day%206.pdf) | - What is GitHub pages?<br>- Personal Portfolio<br>- Digital Resume |
 
 ---
+# 📊 Quiz Scores - Our Learning Progress
 
+As part of Skill-Verse-Notes, all team members practice through quizzes and upload scores here to track our growth together.
+
+### Madhumathi Scores
+[Madhumathi Score](Quiz_Madhumathi.zip)
+
+### Muthulakshmi Scores
+#### Quiz 1
+[Quiz 1 Muthu](quiz1%20muthu.jpeg)
+
+#### Quiz 2
+[Quiz 2 Muthu](quiz2%20muthu.jpeg)
+
+### Kovarasi Scores
+[Kovarasi](Kovarasi-score)
+
+---
+
+### How we learn?
+We learn a topic, take a quiz, and upload the score here. This helps us motivate each other!
 ### ✨ Why this repo is special ? ✨
 - 📘 **For Non-Programmers** - No coding jargon!
 - ✍️ **Handwritten** - Easy to understand like class notes
