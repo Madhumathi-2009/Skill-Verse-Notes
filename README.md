@@ -21,7 +21,7 @@
 
 ---
 
-### 📘 About This Repo
+### 📂 About This Repo
 This repository contains our handwritten class notes from **Skill Verse - GitHub Essentials**. 
 Made for beginners, by beginners. Simple examples and easy explanations.
 
