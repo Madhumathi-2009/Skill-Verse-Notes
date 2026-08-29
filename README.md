@@ -45,12 +45,12 @@ Made for beginners, by beginners. Simple examples and easy explanations.
 In Skill-Verse-Notes, all members learn and practice through quizzes. We upload our scores here to track improvement together.
 
 ### Madhumathi - Quiz Scores
-- [Quiz 1](Quiz_1_Madhu.jpeg)
-- [Quiz 2](Quiz_2_Madhu.jpeg)
+- ![Quiz 1](Quiz_1_Madhu.jpeg)
+- ![Quiz 2](Quiz_2_Madhu.jpeg)
 
 ### Muthulakshmi - Quiz Scores
-- [Quiz 1](quiz1%20muthu.jpeg)
-- [Quiz 2](quiz2%20muthu.jpeg)
+- ![Quiz 1](quiz1%20muthu.jpeg)
+- ![Quiz 2](quiz2%20muthu.jpeg)
 
 ### Kovarasi - Scores
 File: Kovarasi-score
