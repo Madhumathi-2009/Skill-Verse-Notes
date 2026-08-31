@@ -65,7 +65,11 @@ In Skill-Verse-Notes, all members learn and practice through quizzes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&pause=1000&color=4B2E83&center=true&vCenter=true&width=650&lines=Thankyou+for+Visiting" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&pause=1000&color=4B2E83&center=true&vCenter=true&width=650&lines=Greatful+to+Varalakshmi+mam" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=19&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=From+Skill+Verse+for+guiding+us+through+this+journey" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
